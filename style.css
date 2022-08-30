@@ -1,0 +1,38 @@
+
+
+
+table{
+    margin: auto;
+}
+
+
+input{
+    font-size: 34px;
+    border: 5px solid #244624;
+    border-radius: 8px;
+}
+
+button{
+    font-size: 40px;
+    background: #978fa0;
+    width: 110px;
+    height: 90px;
+    border-radius: 20px;
+}
+
+
+.container{
+    /*display: inline-block;*/
+    background-color: #ff99f7;
+    padding: 23px;
+    border-radius: 50px;
+    width:50%;
+    margin:auto;
+  
+  
+    
+    
+}
+
+
+
